@@ -1,0 +1,32 @@
+body {
+    background-color: #1F2937;
+    color: aqua;
+}
+
+h1 {
+    text-align: center;
+    margin: 2rem;
+}
+
+.main {
+    max-width: 70%;
+    margin: auto;
+}
+
+.container {
+    max-width: 30%;
+    margin: auto;
+}
+
+label, input {
+    display: block;
+}
+
+input {
+    margin-bottom: 1rem;
+}
+
+#result {
+    max-width: 80%;
+}
+
